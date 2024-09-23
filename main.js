@@ -1,11 +1,11 @@
 let nomeUsuario - 'BENECAMA';
 // alert (nomeUsuario);
 function soma (a,b) {
-      return a+b;
-      console.log(soma(1,2));
+    return a+b;
+    console.log(soma(1,2));
 }
-        function multiplicar (a,b) {
-            return a*b;
-            console.log(multiplicar(6,6));
+function multiplicar (a,b) {
+    return a*b;
+    console.log(multiplicar(6,6));
 }
     
