@@ -1,4 +1,4 @@
-let nomeUsuario ='cristopher, neves';
+// let nomeUsuario ='cristopher, neves';
 
 // // alert(nomeUsuario);
 // function soma(a,b){
