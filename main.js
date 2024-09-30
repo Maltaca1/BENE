@@ -30,3 +30,8 @@
 // }
 // document.write(media(num1, num2, num3));
 let estados = ['parana', 'sao paulo', 'minas gerais', 'paraiba', 'para', 'rio grande do sul', 'santa catarina', 'mato grosso do sul', 'mato grosso do norte', 'bahia', 'amazonia', 'acre', 'rondonia', 'goias',  'alagoas', 'ceara', 'maranhao', 'paraiba' , 'pernambuco', 'piaui', 'sergipe', 'amapa', 'roraima', 'tocantis', 'espirito santo']
+let i = 0;
+while (i<estados.lenght) {
+    console.log(i)
+    i++;
+}
